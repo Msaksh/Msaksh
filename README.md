@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Msaksh(Saksham Mishra)
-- 👀 I’m interested in web designing 
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in web Development 
+- 🌱 I’m currently learning JavaScript and its library(React.js)
 - 📫 How to reach me 
       Email - [shakshammishra1997@gmail.com]
 
